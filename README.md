@@ -9,10 +9,10 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on building high-performance **Next.js web applications**.
-- 🌱 I’m deepening my expertise in **Server Actions, App Router optimization, and Edge runtimes**.
-- 💬 Ask me about **React, Next.js, API Design, and Database Management**.
-- 📫 How to reach me: **mdra**
+- 🔭 I’m currently building high-performance **Next.js web applications**.
+- 🌱 I’m leveraging **Prisma ORM** and **PostgreSQL** to build secure, scalable backend architectures.
+- 💬 Ask me about **Next.js App Router, Server Actions, Database Schemas, and REST/GraphQL APIs**.
+- 📫 How to reach me: **mdrabbisarkar70@gmail.com**
 
 ---
 
@@ -27,20 +27,17 @@
   <img src="https://shields.io" alt="Tailwind CSS" />
 </p>
 
-#### ⚙️ Backend, Databases & APIs
+#### ⚙️ Data Stack & Backend
 <p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="Prisma" />
-  <img src="https://shields.io" alt="MongoDB" />
   <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Prisma" />
+  <img src="https://shields.io" alt="Node.js" />
 </p>
 
 #### 🔧 Tools & Deployment
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Vercel" />
-  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Postman" />
 </p>
 
