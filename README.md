@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co.com/Xr6GS0T6/github-banner.png](https://ibb.co.com/YThDDZcb)" alt="Rabbi Banner" width="100%" />
+  <img src="https://ibb.co.com/mFHZhKPc" alt="Rabbi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rabbi Sarkar</h1>
